@@ -1,5 +1,5 @@
 # Unity-AssetLoader
-Unity AssetLoader is a program that loads unity modified assets.
+Unity AssetLoader is a program that loads modified unity assets.
 
 # How to use:
 Well, to start, click on the "Game Asset" button;
